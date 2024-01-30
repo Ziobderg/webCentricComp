@@ -98,13 +98,13 @@ The code above was created by adapting the code in [W3Schools](https://www.w3sch
 
 ```
 
-The code above was created by adapting the code in [Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms) as shown below: 
+The code above was created by adapting the code in [StackOverflow - Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms) as shown below: 
 
 ```
 <button type="button">Button</button>
 
 ```
 
-- <!---How---> The code in [Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms) was implemented by adding the type="button" parameter to my button
-- <!---Why---> [Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms)'s Code was used because I needed the submit button to not refresh the page
-- <!---How---> [Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms)'s Code was modified by changing the button label and adding an id parameter
+- <!---How---> The code in [StackOverflow - Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms) was implemented by adding the type="button" parameter to my button
+- <!---Why---> [StackOverflow - Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms)'s Code was used because I needed the submit button to not refresh the page
+- <!---How---> [StackOverflow - Metafaniel](https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms)'s Code was modified by changing the button label and adding an id parameter
