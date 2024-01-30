@@ -9,7 +9,7 @@
 * *Date Created*: 30 Jan 2024
 * *Last Modification Date*: 30 Jan 2024
 * *Lab URL*: <https://web.cs.dal.ca/~maguirer/csci3172/lab3/>
-* *Git URL*: <https://git.cs.dal.ca/maguirer/csci3172-web-centric/-/tree/main/labs/Lab2?ref_type=heads>
+* *Git URL*: <https://git.cs.dal.ca/maguirer/csci3172-web-centric/-/tree/main/labs/Lab3?ref_type=heads>
 
 
 
